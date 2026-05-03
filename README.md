@@ -4,4 +4,8 @@ SPH fluid sim developed with c++ and SFML.
 [![Watch Demo](https://img.youtube.com/vi/tVH68QJgglI/maxresdefault.jpg)](https://www.youtube.com/watch?v=tVH68QJgglI)
 
 # Helpful Sources
-- to do
+-
+-
+
+to do: 
+might refactor to avoid one huge file but lazy
