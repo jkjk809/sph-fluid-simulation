@@ -421,14 +421,8 @@ int main()
     sf::Texture bg1;
     if (bg1.loadFromFile("../Resources/backgrounds/brick.jpg")) bgTextures.push_back(bg1);
 
-    sf::Texture bg4;
-    if (bg4.loadFromFile("../Resources/backgrounds/coral.jpg")) bgTextures.push_back(bg4);
-
-    sf::Texture bg3;
-    if (bg3.loadFromFile("../Resources/backgrounds/check.png")) bgTextures.push_back(bg3);
-
     sf::Texture bg2;
-    if (bg2.loadFromFile("../Resources/backgrounds/forest.jpg")) bgTextures.push_back(bg2);
+    if (bg2.loadFromFile("../Resources/backgrounds/coral.jpg")) bgTextures.push_back(bg2);
 
     shaderBasic.setUniform("texture", sf::Shader::CurrentTexture);
     shaderBasic.setUniform("threshold", 0.05f);
