@@ -26,4 +26,5 @@ Built with C++17, SFML2, OpenMP. Tested on macOS.
 
 [![Watch Demo](https://img.youtube.com/vi/tVH68QJgglI/maxresdefault.jpg)](https://www.youtube.com/watch?v=tVH68QJgglI)
 
+[Read the paper!](Docs/fluid-sim-paper.pdf)
 
